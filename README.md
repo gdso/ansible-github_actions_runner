@@ -24,7 +24,7 @@ It supports Enterprise, Organization and Repository Runners.
 >```yml
 >roles:
 >  - name: monolithprojects.github_actions_runner
->    version: 1.21.1
+>    version: 1.25.1 # NOTE check releases for the latest version
 >    src: https://github.com/MonolithProjects/ansible-github_actions_runner
 >```
 
